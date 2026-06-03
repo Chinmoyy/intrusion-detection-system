@@ -119,6 +119,4 @@ IEEE Symposium on Computational Intelligence for Security and Defense Applicatio
 MIT License — free to use for educational and portfolio purposes.
 
 ---
-
-*Built as part of a CIS portfolio at Baruch College, CUNY.*
 # intrusion-detection-system
